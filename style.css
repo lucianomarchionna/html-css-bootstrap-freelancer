@@ -38,6 +38,25 @@ header{
     height: 100%;
 }
 
+.position-relative:hover img{
+    filter: brightness(50%);
+}
+
+.position-relative .fa-plus{
+    display: none;
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.portfolio .row .position-relative:hover .fa-plus{
+    display: block;
+    cursor: pointer;
+}
+
 .my_font_size_18px{
     font-size: 18px;
 }
