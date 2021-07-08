@@ -41,14 +41,6 @@ header{
 .my_font_size_18px{
     font-size: 18px;
 }
-
-.contact-me{
-    height: 400px;
-}
-
-.input{
-    height: 80px;
-}
 /* main */
 /* debug */
 /* .debug header{
@@ -77,8 +69,8 @@ header{
 /* .debug #portfolio{
     background-color: lightcoral;
 } */
-
+/* 
 .debug .contact{
     background: lightsalmon;
-} 
+}  */
 /* debug */
