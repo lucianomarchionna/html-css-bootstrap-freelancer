@@ -18,22 +18,17 @@ header{
 .my_green_color{
     background-color: rgb(26,188,156);
     color: white;
-    height: 400px;
+    height: 500px;
 }
 
 #my_avatar{
-    width: 20%;
-    height: 200%;
-}
-
-#my_container_banner{
-    height: 100px;
+    width: 15%;
 }
 
 .my_white_color{
-    background-color: lightcoral;
+    background-color: white;
     color: black;
-    height: 400px;
+    height: 500px;
 }
 
 .portfolio_square{
@@ -55,9 +50,9 @@ header{
     background: rgb(44,62,80);
 } */
 
-.debug .container{
+/* .debug .container{
     height: 100%;
-}
+} */
 
 /* .debug #start{
     background-color: lightgreen;
@@ -69,14 +64,14 @@ header{
     border: 1px solid black;
 } */
 
-.debug #my_avatar{
+/* .debug #my_avatar{
     background:blue;
     border-radius: 50%;
-}
+} */
 
-.debug #portfolio{
+/* .debug #portfolio{
     background-color: lightcoral;
-}
+} */
 
 .debug .contact{
     background: lightsalmon;
