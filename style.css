@@ -6,7 +6,7 @@
 
 /* header */
 header{
-    height: 60px;
+    height: 70px;
 }
 
 .my_blue_color{
@@ -60,7 +60,23 @@ header{
 .my_font_size_18px{
     font-size: 18px;
 }
+
+.my_lightblue_color{
+    background-color: rgb(58,84,109);
+    color: white;
+}
 /* main */
+/* footer */
+.my_font_size_18px span{
+    color: rgb(26,188,156);
+}
+
+#footer_bot{
+    height: 70px;
+    line-height: 70px;
+}
+/* footer */
+
 /* debug */
 /* .debug header{
     background: rgb(44,62,80);
