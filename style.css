@@ -10,22 +10,38 @@
     text-decoration: none;
 }
 /* header */
-
+/* main */
 .my_green_color{
     background-color: rgb(26,188,156);
     color: white;
-    height: 300px;
+    height: 400px;
 }
 
 #my_avatar{
     width: 20%;
-    height: 100%;
+    height: 200%;
 }
 
 #my_container_banner{
     height: 100px;
 }
 
+.my_white_color{
+    background-color: lightcoral;
+    color: black;
+    height: 400px;
+}
+
+#portfolio{
+    background-color: lightcoral;
+}
+
+.portfolio_square{
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+}
+/* main */
 /* debug */
 .debug header{
     background: rgb(44,62,80);
