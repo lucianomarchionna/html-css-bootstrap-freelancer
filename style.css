@@ -32,14 +32,18 @@
     height: 400px;
 }
 
-#portfolio{
-    background-color: lightcoral;
-}
-
 .portfolio_square{
     width: 100%;
     height: 100%;
     background-color: blue;
+}
+
+.contact-me{
+    height: 400px;
+}
+
+.input{
+    height: 80px;
 }
 /* main */
 /* debug */
@@ -65,4 +69,12 @@
     background:blue;
     border-radius: 50%;
 }
+
+.debug #portfolio{
+    background-color: lightcoral;
+}
+
+.debug .contact{
+    background: lightsalmon;
+} 
 /* debug */
